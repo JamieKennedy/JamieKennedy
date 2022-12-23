@@ -4,7 +4,7 @@ Hi 👋 My name is Jamie
 Full Stack web developer
 ------------------------
 
-* 🌍  I'm based in Liverpool, United Kingdom
+* 🌍  I'm based near Liverpool, United Kingdom
 * ✉️  You can contact me at [jamiekennedy97@gmail.com](mailto:jamiekennedy97@gmail.com)
 
 ### Skills
